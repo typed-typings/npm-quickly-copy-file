@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/types/npm-debug.git"
+    "url": "git+https://github.com/types/npm-quickly-copy-file.git"
   },
   "author": {
     "name": "Blake Embrey",
@@ -20,9 +20,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/types/npm-debug/issues"
+    "url": "https://github.com/types/npm-quickly-copy-file/issues"
   },
-  "homepage": "https://github.com/types/npm-debug#readme",
+  "homepage": "https://github.com/types/npm-quickly-copy-file#readme",
   "devDependencies": {
     "quickly-copy-file": "^1.0.0",
     "ts-node": "^1.3.0",
